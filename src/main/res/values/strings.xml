@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CapitalsQuiz</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string-array name="Questions">
+        <item>(1/5) What is the capital of the United Kingdom?</item>
+        <item>(2/5) What is the capital of Germany?</item>
+        <item>(3/5) What is the capital of France?</item>
+        <item>(4/5) What is the capital of Spain?</item>
+        <item>(5/5) What is the capital of Italy?</item>
+    </string-array>
+    <string-array name="Answers">
+        <item>london</item>
+        <item>berlin</item>
+        <item>paris</item>
+        <item>madrid</item>
+        <item>rome</item>
+    </string-array>
+    <string-array name="Hints">
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Paris</item>
+        <item>Madrid</item>
+        <item>Rome</item>
+    </string-array>
+      </resources>
